@@ -6,7 +6,7 @@
 # batocera - bump
 ALSA_LIB_VERSION = 1.2.14
 ALSA_LIB_SOURCE = alsa-lib-$(ALSA_LIB_VERSION).tar.bz2
-ALSA_LIB_SITE = https://www.alsa-project.org/files/pub/lib
+ALSA_LIB_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 ALSA_LIB_LICENSE = LGPL-2.1+ (library), GPL-2.0+ (aserver)
 ALSA_LIB_LICENSE_FILES = COPYING aserver/COPYING
 ALSA_LIB_CPE_ID_VENDOR = alsa-project

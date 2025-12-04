@@ -6,7 +6,7 @@
 
 LIBXSLT_VERSION = 1.1.42
 LIBXSLT_SOURCE = libxslt-$(LIBXSLT_VERSION).tar.xz
-LIBXSLT_SITE = https://download.gnome.org/sources/libxslt/1.1
+LIBXSLT_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 LIBXSLT_INSTALL_STAGING = YES
 LIBXSLT_LICENSE = MIT
 LIBXSLT_LICENSE_FILES = COPYING

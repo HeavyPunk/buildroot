@@ -6,7 +6,7 @@
 # batocera - bump
 ALSA_UTILS_VERSION = 1.2.14
 ALSA_UTILS_SOURCE = alsa-utils-$(ALSA_UTILS_VERSION).tar.bz2
-ALSA_UTILS_SITE = https://www.alsa-project.org/files/pub/utils
+ALSA_UTILS_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 ALSA_UTILS_LICENSE = GPL-2.0
 ALSA_UTILS_LICENSE_FILES = COPYING
 # 0011-configure.ac-fix-UMP-support-detection.patch

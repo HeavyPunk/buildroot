@@ -8,7 +8,7 @@ LIBXML2_VERSION_MAJOR = 2.13
 LIBXML2_VERSION = $(LIBXML2_VERSION_MAJOR).5
 LIBXML2_SOURCE = libxml2-$(LIBXML2_VERSION).tar.xz
 LIBXML2_SITE = \
-	https://download.gnome.org/sources/libxml2/$(LIBXML2_VERSION_MAJOR)
+	https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 LIBXML2_INSTALL_STAGING = YES
 LIBXML2_LICENSE = MIT
 LIBXML2_LICENSE_FILES = Copyright
