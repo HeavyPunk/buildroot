@@ -6,7 +6,7 @@
 # batocera - bump
 BOOST_VERSION = 1.89.0
 BOOST_SOURCE = boost_$(subst .,_,$(BOOST_VERSION)).tar.bz2
-BOOST_SITE = https://archives.boost.io/release/$(BOOST_VERSION)/source
+BOOST_SITE = https://github.com/HeavyPunk/batocera.packages/releases/download/large
 BOOST_INSTALL_STAGING = YES
 BOOST_LICENSE = BSL-1.0
 BOOST_LICENSE_FILES = LICENSE_1_0.txt
