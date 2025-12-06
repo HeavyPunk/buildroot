@@ -6,7 +6,7 @@
 
 LIBTALLOC_VERSION = 2.4.2
 LIBTALLOC_SOURCE = talloc-$(LIBTALLOC_VERSION).tar.gz
-LIBTALLOC_SITE = https://www.samba.org/ftp/talloc
+LIBTALLOC_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 LIBTALLOC_LICENSE = LGPL-3.0+
 LIBTALLOC_LICENSE_FILES = talloc.h
 LIBTALLOC_INSTALL_STAGING = YES
