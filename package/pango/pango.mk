@@ -7,7 +7,7 @@
 PANGO_VERSION_MAJOR = 1.54
 PANGO_VERSION = $(PANGO_VERSION_MAJOR).0
 PANGO_SOURCE = pango-$(PANGO_VERSION).tar.xz
-PANGO_SITE = https://download.gnome.org/sources/pango/$(PANGO_VERSION_MAJOR)
+PANGO_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 PANGO_INSTALL_STAGING = YES
 PANGO_LICENSE = LGPL-2.0+
 PANGO_LICENSE_FILES = COPYING
