@@ -6,7 +6,7 @@
 
 CIFS_UTILS_VERSION = 7.1
 CIFS_UTILS_SOURCE = cifs-utils-$(CIFS_UTILS_VERSION).tar.bz2
-CIFS_UTILS_SITE = http://ftp.samba.org/pub/linux-cifs/cifs-utils
+CIFS_UTILS_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 CIFS_UTILS_LICENSE = GPL-3.0+
 CIFS_UTILS_LICENSE_FILES = COPYING
 CIFS_UTILS_CPE_ID_VENDOR = samba
