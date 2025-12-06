@@ -7,7 +7,7 @@
 GDK_PIXBUF_VERSION_MAJOR = 2.42
 GDK_PIXBUF_VERSION = $(GDK_PIXBUF_VERSION_MAJOR).12
 GDK_PIXBUF_SOURCE = gdk-pixbuf-$(GDK_PIXBUF_VERSION).tar.xz
-GDK_PIXBUF_SITE = https://download.gnome.org/sources/gdk-pixbuf/$(GDK_PIXBUF_VERSION_MAJOR)
+GDK_PIXBUF_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 GDK_PIXBUF_LICENSE = LGPL-2.1+
 GDK_PIXBUF_LICENSE_FILES = COPYING
 GDK_PIXBUF_CPE_ID_VENDOR = gnome
