@@ -5,7 +5,7 @@
 ################################################################################
 
 LIBAIO_VERSION = 0.3.113
-LIBAIO_SITE = https://releases.pagure.org/libaio
+LIBAIO_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 LIBAIO_INSTALL_STAGING = YES
 LIBAIO_LICENSE = LGPL-2.1+
 LIBAIO_LICENSE_FILES = COPYING
