@@ -5,7 +5,7 @@
 ################################################################################
 
 LIBTASN1_VERSION = 4.19.0
-LIBTASN1_SITE = $(BR2_GNU_MIRROR)/libtasn1
+LIBTASN1_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 LIBTASN1_DEPENDENCIES = host-bison host-pkgconf
 LIBTASN1_LICENSE = GPL-3.0+ (tests, tools), LGPL-2.1+ (library)
 LIBTASN1_LICENSE_FILES = COPYING doc/COPYING doc/COPYING.LESSER
