@@ -6,7 +6,7 @@
 # batocera - bump
 SDL2_VERSION = 2.32.8
 SDL2_SOURCE = SDL2-$(SDL2_VERSION).tar.gz
-SDL2_SITE = http://www.libsdl.org/release
+SDL2_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 SDL2_LICENSE = Zlib
 SDL2_LICENSE_FILES = LICENSE.txt
 SDL2_CPE_ID_VENDOR = libsdl
