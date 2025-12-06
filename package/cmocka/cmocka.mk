@@ -6,7 +6,7 @@
 
 CMOCKA_VERSION = 1.1.5
 CMOCKA_SOURCE = cmocka-$(CMOCKA_VERSION).tar.xz
-CMOCKA_SITE = https://cmocka.org/files/1.1
+CMOCKA_SITE = https://github.com/HeavyPunk/batocera.packages/raw/refs/heads/main
 CMOCKA_LICENSE = Apache-2.0
 CMOCKA_LICENSE_FILES = COPYING
 CMOCKA_INSTALL_STAGING = YES
